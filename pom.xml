@@ -78,7 +78,7 @@
 
   <properties>
     <!-- dependencies : updated 2021.1.7 -->
-    <com.github.liaochong_myexcel_version>3.10.1</com.github.liaochong_myexcel_version>
+    <com.github.liaochong_myexcel_version>3.11.3</com.github.liaochong_myexcel_version>
     <io.springfox_version>2.9.2</io.springfox_version>
     <org.shaneking.Friendly_version>0.241.3.Friendly-SNAPSHOT</org.shaneking.Friendly_version>
     <org.azolla.Lab_version>0.0.1.Lab-SNAPSHOT</org.azolla.Lab_version>
