@@ -80,7 +80,7 @@
     <!-- dependencies : updated 2021.1.7 -->
     <com.github.liaochong_myexcel_version>3.11.4</com.github.liaochong_myexcel_version>
     <io.springfox_version>2.9.2</io.springfox_version>
-    <org.shaneking.Friendly_version>0.241.6.Friendly-SNAPSHOT</org.shaneking.Friendly_version>
+    <org.shaneking.Friendly_version>0.241.7.Friendly-SNAPSHOT</org.shaneking.Friendly_version>
     <org.azolla.Lab_version>0.0.1.Lab-SNAPSHOT</org.azolla.Lab_version>
     <!-- build plugins -->
     <org.jacoco_jacoco-maven-plugin_version>0.8.6</org.jacoco_jacoco-maven-plugin_version>
@@ -180,32 +180,6 @@
                 <phase>verify</phase>
                 <goals>
                   <goal>sign</goal>
-                </goals>
-              </execution>
-            </executions>
-          </plugin>
-          <!-- Javadoc -->
-          <plugin>
-            <groupId>org.apache.maven.plugins</groupId>
-            <artifactId>maven-javadoc-plugin</artifactId>
-            <executions>
-              <execution>
-                <phase>package</phase>
-                <goals>
-                  <goal>jar</goal>
-                </goals>
-              </execution>
-            </executions>
-          </plugin>
-          <!-- Source -->
-          <plugin>
-            <groupId>org.apache.maven.plugins</groupId>
-            <artifactId>maven-source-plugin</artifactId>
-            <executions>
-              <execution>
-                <phase>package</phase>
-                <goals>
-                  <goal>jar</goal>
                 </goals>
               </execution>
             </executions>
