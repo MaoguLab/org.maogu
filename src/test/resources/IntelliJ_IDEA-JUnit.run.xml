@@ -1,36 +1,4 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="spirit_chihiro_stub" type="JUnit" factoryName="JUnit">
-    <module name="org.maogu.spirit.chihiro.stub"/>
-    <extension name="coverage">
-      <pattern>
-        <option name="PATTERN" value="org.maogu.spirit.chihiro.stub.*"/>
-        <option name="ENABLED" value="true"/>
-      </pattern>
-    </extension>
-    <option name="PACKAGE_NAME" value="mgtest"/>
-    <option name="MAIN_CLASS_NAME" value=""/>
-    <option name="METHOD_NAME" value=""/>
-    <option name="TEST_OBJECT" value="package"/>
-    <method v="2">
-      <option name="Make" enabled="true"/>
-    </method>
-  </configuration>
-  <configuration default="false" name="spirit_frog_stub" type="JUnit" factoryName="JUnit">
-    <module name="org.maogu.spirit.frog.stub"/>
-    <extension name="coverage">
-      <pattern>
-        <option name="PATTERN" value="org.maogu.spirit.frog.stub.*"/>
-        <option name="ENABLED" value="true"/>
-      </pattern>
-    </extension>
-    <option name="PACKAGE_NAME" value="mgtest"/>
-    <option name="MAIN_CLASS_NAME" value=""/>
-    <option name="METHOD_NAME" value=""/>
-    <option name="TEST_OBJECT" value="package"/>
-    <method v="2">
-      <option name="Make" enabled="true"/>
-    </method>
-  </configuration>
   <configuration default="false" name="totoro-func" type="JUnit" factoryName="JUnit">
     <module name="org.maogu.totoro.func"/>
     <extension name="coverage">
