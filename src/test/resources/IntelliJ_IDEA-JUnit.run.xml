@@ -1,9 +1,9 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="totoro-func" type="JUnit" factoryName="JUnit">
-    <module name="org.maogu.totoro.func"/>
+  <configuration default="false" name="spirit-boiler-func" type="JUnit" factoryName="JUnit">
+    <module name="org.maogu.spirit.boiler.func"/>
     <extension name="coverage">
       <pattern>
-        <option name="PATTERN" value="org.maogu.totoro.func.*"/>
+        <option name="PATTERN" value="org.maogu.spirit.boiler.func.*"/>
         <option name="ENABLED" value="true"/>
       </pattern>
     </extension>
