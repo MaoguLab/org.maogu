@@ -15,4 +15,20 @@
       <option name="Make" enabled="true"/>
     </method>
   </configuration>
+  <configuration default="false" name="spirit-achelous-druid" type="JUnit" factoryName="JUnit">
+    <module name="org.maogu.spirit.achelous.druid"/>
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="org.maogu.spirit.achelous.druid.*"/>
+        <option name="ENABLED" value="true"/>
+      </pattern>
+    </extension>
+    <option name="PACKAGE_NAME" value="mgtest"/>
+    <option name="MAIN_CLASS_NAME" value=""/>
+    <option name="METHOD_NAME" value=""/>
+    <option name="TEST_OBJECT" value="package"/>
+    <method v="2">
+      <option name="Make" enabled="true"/>
+    </method>
+  </configuration>
 </component>
