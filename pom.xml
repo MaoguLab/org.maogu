@@ -81,7 +81,7 @@
     <com.alibaba_druid_version>1.2.6</com.alibaba_druid_version>
     <com.github.liaochong_myexcel_version>3.11.4</com.github.liaochong_myexcel_version>
     <javax.validation_validation-api_version>2.0.1.Final</javax.validation_validation-api_version>
-    <org.shaneking.Friendly_version>0.241.10.Friendly-SNAPSHOT</org.shaneking.Friendly_version>
+    <org.shaneking.Friendly_version>0.241.11.Friendly-SNAPSHOT</org.shaneking.Friendly_version>
     <!-- build plugins -->
     <org.jacoco_jacoco-maven-plugin_version>0.8.6</org.jacoco_jacoco-maven-plugin_version>
     <org.sonarsource.scanner.maven_sonar-maven-plugin_version>3.8.0.2131</org.sonarsource.scanner.maven_sonar-maven-plugin_version><!-- sonar:sonar -->
