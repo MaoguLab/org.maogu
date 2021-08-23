@@ -31,4 +31,20 @@
       <option name="Make" enabled="true"/>
     </method>
   </configuration>
+  <configuration default="false" name="spirit-achelous-gsqlparser" type="JUnit" factoryName="JUnit">
+    <module name="org.maogu.spirit.achelous.gsqlparser"/>
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="org.maogu.spirit.achelous.gsqlparser.*"/>
+        <option name="ENABLED" value="true"/>
+      </pattern>
+    </extension>
+    <option name="PACKAGE_NAME" value="mgtest"/>
+    <option name="MAIN_CLASS_NAME" value=""/>
+    <option name="METHOD_NAME" value=""/>
+    <option name="TEST_OBJECT" value="package"/>
+    <method v="2">
+      <option name="Make" enabled="true"/>
+    </method>
+  </configuration>
 </component>

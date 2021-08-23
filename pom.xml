@@ -82,7 +82,7 @@
     <com.github.liaochong_myexcel_version>3.11.4</com.github.liaochong_myexcel_version>
     <javax.validation_validation-api_version>2.0.1.Final</javax.validation_validation-api_version>
     <org.azolla.com.alibaba_druid_version>1.2.7_preview_05_Azolla02</org.azolla.com.alibaba_druid_version>
-    <org.azolla.com.sqlparser_gudusoft.gsqlparser_version>2.3.0.7_Azolla01-SNAPSHOT</org.azolla.com.sqlparser_gudusoft.gsqlparser_version>
+    <org.azolla.com.sqlparser_gudusoft.gsqlparser_version>2.3.2.7_Azolla01-SNAPSHOT</org.azolla.com.sqlparser_gudusoft.gsqlparser_version>
     <org.shaneking.Friendly_version>0.241.13.Friendly-SNAPSHOT</org.shaneking.Friendly_version>
     <!-- build plugins -->
     <org.jacoco_jacoco-maven-plugin_version>0.8.6</org.jacoco_jacoco-maven-plugin_version>
