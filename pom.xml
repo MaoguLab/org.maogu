@@ -5,7 +5,7 @@
   <parent>
     <groupId>org.springframework.boot</groupId>
     <artifactId>spring-boot-starter-parent</artifactId>
-    <version>2.4.1</version>
+    <version>2.5.4</version>
   </parent>
 
   <groupId>org.maogu</groupId>
@@ -83,12 +83,12 @@
     <javax.validation_validation-api_version>2.0.1.Final</javax.validation_validation-api_version>
     <org.azolla.com.alibaba_druid_version>1.2.7_preview_05_Azolla02</org.azolla.com.alibaba_druid_version>
     <org.azolla.com.sqlparser_gudusoft.gsqlparser_version>2.3.2.7_Azolla01-SNAPSHOT</org.azolla.com.sqlparser_gudusoft.gsqlparser_version>
-    <org.shaneking.Friendly_version>0.241.13.Friendly-SNAPSHOT</org.shaneking.Friendly_version>
+    <org.shaneking.Friendly_version>0.254.10.Friendly-SNAPSHOT</org.shaneking.Friendly_version>
     <!-- build plugins -->
-    <org.jacoco_jacoco-maven-plugin_version>0.8.6</org.jacoco_jacoco-maven-plugin_version>
-    <org.sonarsource.scanner.maven_sonar-maven-plugin_version>3.8.0.2131</org.sonarsource.scanner.maven_sonar-maven-plugin_version><!-- sonar:sonar -->
+    <org.jacoco_jacoco-maven-plugin_version>0.8.7</org.jacoco_jacoco-maven-plugin_version>
+    <org.sonarsource.scanner.maven_sonar-maven-plugin_version>3.9.0.2155</org.sonarsource.scanner.maven_sonar-maven-plugin_version><!-- sonar:sonar -->
     <!-- profile plugins -->
-    <maven-gpg-plugin.version>1.6</maven-gpg-plugin.version>
+    <maven-gpg-plugin.version>3.0.1</maven-gpg-plugin.version>
   </properties>
 
   <!-- mvn -N versions:set -DgenerateBackupPoms=false -DnewVersion=0.0.1.Lab-SNAPSHOT -->
