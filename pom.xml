@@ -94,6 +94,7 @@
   <!-- mvn -N versions:set -DgenerateBackupPoms=false -DnewVersion=0.0.1.Lab-SNAPSHOT -->
   <modules>
     <module>../org.maogu.spirit</module>
+    <module>../org.maogu.totoro</module>
   </modules>
 
   <dependencyManagement>
